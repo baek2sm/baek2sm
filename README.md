@@ -1,5 +1,5 @@
 [![github](http://img.shields.io/badge/-github-black?style=flat-square&logo=github&link=https://github.com/baek2sm)](https://github.com/baek2sm) 
-[![Blog Badge](https://img.shields.io/badge/-Blog-92a8d1?logo=naver&logoColor=black&link=https://blog.naver.com/baek2sm)](https://blog.naver.com/baek2sm)
+[![Blog Badge](https://img.shields.io/badge/-Blog-92a8d1?logo=naver&logoColor=white&link=https://blog.naver.com/baek2sm)](https://blog.naver.com/baek2sm)
 
 - 이름 : 홍승백
 - 이메일 : baek2sm@naver.com
