@@ -19,7 +19,7 @@
   -|-----|--
   2013.06-|멘사코리아|https://www.mensakorea.org/
   2016.04|헝그리앱TV 인디게임 개발자 인터뷰|https://tv.naver.com/v/838040
-  2017.01|SBS 게임아카데미 게임 시연회 1위(C++, 스타크래프트1 모작)|https://goo.gl/XEFnRG
+  2017.01|SBS 게임아카데미 게임 시연회 1위(C++, 스타크래프트1 모작)|https://goo.gl/XEFnRG , https://blog.naver.com/baek2sm/220917786674
   2017.02|신당동 중앙시장 길안내 키오스크 소프트웨어 외주 납품|https://blog.naver.com/baek2sm/220953577160
   2019.02-2018.02|(주)라인플러스 산학협력 전국 대학생 연합 게임 개발 동아리 회장|https://bridgegames.tistory.com/
   2020.03-2017.08|인디게임 개발자 쉼터(인디터) 카페 스텝|https://cafe.naver.com/indiedev
