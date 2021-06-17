@@ -5,8 +5,8 @@
 - 관심 분야 : Computer Vision, Pattern Recognition, Data Analysis
 - 소속, 전공 : 동국대학교 대학원 석박통합과정(재), 멀티미디어 컨텐츠 및 신호처리 전공
 - 기타 활동
-  --|-----|---
-  2016.04|헝그리앱TV 인디게임 개발자 인터뷰|https://tv.naver.com/v/838040
+  --|---
+  헝그리앱TV 인디게임 개발자 인터뷰|https://tv.naver.com/v/838040
   
 
 - 대회 이력
