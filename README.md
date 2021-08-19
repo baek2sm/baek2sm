@@ -2,6 +2,7 @@
 - 이메일 : baek2sm@naver.com , 블로그 : https://blog.naver.com/baek2sm
 - 관심 분야 : Computer Vision, Pattern Recognition, Data Analysis
 - 소속, 전공 : 동국대학교 대학원 석박통합과정(재), 멀티미디어 컨텐츠 및 신호처리 전공
+- 저서: 이토록 쉬운 머신러닝, 딥러닝 입문 with 사이킷런 + 파이토치 (21년 8월 말 출판 예정)
 - 대회 이력 (팀명: SuperAwesome, 팀장)
   날짜|주최/주관/후원|대회명|순위|입상여부
   -------|--------------|----------|-|--
