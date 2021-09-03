@@ -2,7 +2,7 @@
 - 관심 분야 : Computer Vision, Pattern Recognition, Data Analysis
 - 저서: 이토록 쉬운 머신러닝&딥러닝 입문 with 사이킷런 + 파이토치 (루비페이퍼 출판사, 2021년 8월 출간)
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/30026090/130721880-2fc88b56-51d0-46a1-9a02-5d99903f5e4c.png"  width="247" height="302">
+  <img src="https://user-images.githubusercontent.com/30026090/130721880-2fc88b56-51d0-46a1-9a02-5d99903f5e4c.png"  width="247" height="302">  
 </div>
 
 - 대회 이력 (팀명: SuperAwesome, 팀장)
@@ -13,10 +13,10 @@
   20.12|과학기술정보통신부|2020 인공지능 문제해결 경진대회(NLP를 이용한 증시지표 예측)|5위|-
   21.01|한국지능정보사회진흥원|MZ 인공지능 해커톤 대회(AI 장치용 STT를 위한 텍스트 의도 분류)|4위|장려상
   21.02|과학기술정보통신부|추적 영상 인식 알고리즘 개발(지하철역 CCTV 영상 추적)|5위|-
+  21.02|삼성서울병원, 아주대병원|2021 구강계질환 의료영상 인공지능(AI) 경진대회|본선(40팀)|-
   21.02|카이스트, 공감신문, (주)아인플래닛|헤어스타일 합성 AI 해커톤|3위|입상
   21.08|한국축산데이터(주), (사)한국축산테크협회, 농림축산식품부|Animal Datathon Korea 2021(animal key point detection)|3위|한국축산테크협회장상
   21.08|포항공과대학교, H Energy|2021 POSTECH OIBC CHALLENGE 태양광 발전량 예측 경진대회|본선 1위|심사 진행중
-  21.09|경기도, 경기도경제과학진흥원|판교 AI Camp|참가중|-
   21.09|한국지질자원연구원|2021 지질자원 데이터 활용 및 인공지능 경진대회|본선(16팀) 참가중|-
 - 대외/기타 활동
   기간|내용|비고
