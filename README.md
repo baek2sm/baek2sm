@@ -22,6 +22,7 @@
 |21.08|포항공과대학교, H Energy|2021 POSTECH OIBC CHALLENGE 태양광 발전량 예측 경진대회|본선 1위|심사중|
 |21.09|한국지질자원연구원|2021 지질자원 데이터 활용 및 인공지능 경진대회|본선(16팀)|-|
 |21.09|경기도, 경기도경제과학진흥원|판교 AI Camp(코로나 방역을 위한 마스크 착용 분류)|참가중|-|
+|21.09|경기도, 경기도경제과학진흥원|판교 AI Camp(소상공인 QnA 카테고리 분류)|참가중|-|
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
 
