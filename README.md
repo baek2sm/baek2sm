@@ -43,6 +43,12 @@
 |21.07|동국대학교, 메이킷올|2021 동국대학교 Making Academy RC카 제작 프로젝트(아두이노)|
 |21.08|동국대학교, 네이버|2021 동국 기업연계 - 네이버 부스트코스 코칭스터디 데이터사이언스/분석 프로젝트|
 
+- 특허/저작권
+
+|종류|명칭|등록번호|등록일|
+|-|-|-|-|
+|소프트웨어 저작권|낙상 감지 프로그램|C-2021-035946|21.09.08|
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
 
 
