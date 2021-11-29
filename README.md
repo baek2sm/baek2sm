@@ -27,6 +27,7 @@
 |21.12|서울대학병원|Sleep AI Challenge 2021(적외선 동영상을 이용한 수면 단계 예측)|2위|서울대학병원장상|
 |21.12|Alchera, AI HEROES|눈바디 AI Challenge(Semantic Segmentation)|6위|-|
 |21.12|과학기술정보통신부, NIA|2021 소형객체 인공지능 모델 개발 챌린지(Small Object Detection)|본선 참가중(20팀)|-|
+|21.12|NIA, 데이터리|2021 민원데이터 활용 AI 해커톤|참가중|-|
 
 
 - 대외/기타 활동
