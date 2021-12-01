@@ -25,7 +25,7 @@
 |21.09|경기도, 경기도경제과학진흥원|판교 AI Camp(코로나 방역을 위한 마스크 착용 분류)|3위|경기도경제과학진흥원장상|
 |21.11|과학기술정보통신부, 국립암센터|National Pathology Health Datathon 2021(세포 병리 이미지 분류)|2위|최우수상|
 |21.12|서울대학병원|Sleep AI Challenge 2021(적외선 동영상을 이용한 수면 단계 예측)|2위|서울대학병원장상|
-|21.12|Alchera, AI HEROES|눈바디 AI Challenge(Semantic Segmentation)|6위|입선|
+|21.12|Alchera, AI HEROES|눈바디 AI Challenge(Semantic Segmentation)|6위|입상|
 |21.12|과학기술정보통신부, NIA|2021 소형객체 인공지능 모델 개발 챌린지(Small Object Detection)|본선 참가중(20팀)|-|
 |21.12|NIA, 데이터리|2021 민원데이터 활용 AI 해커톤|참가중|-|
 
