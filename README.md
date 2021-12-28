@@ -10,25 +10,25 @@
 - 논문
 
 |유형|내용|
-|-|-|
+|--|-|
 |공저자|Se Hyun Nam, Yu Hwan Kim, Jiho Choi, Seung Baek Hong, Muhammad Owais, and Kang Ryoung Park, “LAE-GAN-based Face Image Restoration for Low-light Age Estimation,” Mathematics, 9(18), 2329, pp. 1-28, September 2021.|
 
 - 대회 입상 이력(팀명: SuperAwesome, 팀장)
 
 |날짜|주최/주관/후원|대회명(과제명)|순위|입상여부|
 |-|-|-|--|-|
-|20.12|과기부, NIA|2020 인공지능 문제해결 경진대회(서초구 어린이집 실내 공기질 예측)|1위|서초구청장상|
-|20.12|과기부, NIA|2020 인공지능 문제해결 경진대회(서울시 특정지역 실외 공기 오염 예측)|3위|입상|
-|21.01|한국지능정보사회진흥원|MZ 인공지능 해커톤 대회(AI 장치용 STT를 위한 텍스트 의도 분류)|4위|장려상|
-|21.02|카이스트, 공감신문, (주)아인플래닛|헤어스타일 합성 AI 해커톤|3위|입상|
-|21.08|한국축산데이터(주), (사)한국축산테크협회, 농림축산식품부|Animal Datathon Korea 2021(animal key point detection)|3위|한국축산테크협회장상|
-|21.09|포항공과대학교, H Energy|2021 POSTECH Open Innovation Bigdata Challenge(태양광 발전량 예측)|1위|대상|
-|21.09|경기도, 경기도경제과학진흥원|판교 AI Camp(코로나 방역을 위한 마스크 착용 분류)|3위|경기도경제과학진흥원장상|
-|21.11|과기부, 국립암센터|National Pathology Health Datathon 2021(세포 병리 이미지 분류)|2위|최우수상|
-|21.11|Alchera, AI HEROES|눈바디 AI Challenge(Semantic Segmentation)|6위|입상|
-|21.12|서울대학병원|Sleep AI Challenge 2021(적외선 동영상을 이용한 수면 단계 예측)|2위|서울대학병원장상|
-|21.12|과기부, NIA, KAOMI|2021년 임플란트 영상 AI 해커톤 대회(임플란트 종류 분류)|3위|장려상|
-|21.12|NIA, 데이터리|2021 민원데이터 활용 AI 해커톤|4위|우수상|
+|20.12|과기부, NIA|2020 인공지능 문제해결 경진대회(서초구 어린이집 실내 공기질 예측)|1|서초구청장상|
+|20.12|과기부, NIA|2020 인공지능 문제해결 경진대회(서울시 특정지역 실외 공기 오염 예측)|3|입상|
+|21.01|한국지능정보사회진흥원|MZ 인공지능 해커톤 대회(AI 장치용 STT를 위한 텍스트 의도 분류)|4|장려상|
+|21.02|카이스트, 공감신문, (주)아인플래닛|헤어스타일 합성 AI 해커톤|3|입상|
+|21.08|한국축산데이터(주), (사)한국축산테크협회, 농림축산식품부|Animal Datathon Korea 2021(animal key point detection)|3|한국축산테크협회장상|
+|21.09|포항공과대학교, H Energy|2021 POSTECH Open Innovation Bigdata Challenge(태양광 발전량 예측)|1|대상|
+|21.09|경기도, 경기도경제과학진흥원|판교 AI Camp(코로나 방역을 위한 마스크 착용 분류)|3|경기도경제과학진흥원장상|
+|21.11|과기부, 국립암센터|National Pathology Health Datathon 2021(세포 병리 이미지 분류)|2|최우수상|
+|21.11|Alchera, AI HEROES|눈바디 AI Challenge(Semantic Segmentation)|6|입상|
+|21.12|서울대학병원|Sleep AI Challenge 2021(적외선 동영상을 이용한 수면 단계 예측)|2|서울대학병원장상|
+|21.12|과기부, NIA, KAOMI|2021년 임플란트 영상 AI 해커톤 대회(임플란트 종류 분류)|3|장려상|
+|21.12|NIA, 데이터리|2021 민원데이터 활용 AI 해커톤|4|우수상|
 
 - 특허/저작권
 
