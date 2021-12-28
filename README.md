@@ -7,6 +7,12 @@
   <img src="https://user-images.githubusercontent.com/30026090/130721880-2fc88b56-51d0-46a1-9a02-5d99903f5e4c.png"  width="247" height="302">  
 </div>
 
+- 논문
+
+|유형|내용|
+|-|-|
+|공저자|Se Hyun Nam, Yu Hwan Kim, Jiho Choi, Seung Baek Hong, Muhammad Owais, and Kang Ryoung Park, “LAE-GAN-based Face Image Restoration for Low-light Age Estimation,” Mathematics, 9(18), 2329, pp. 1-28, September 2021.|
+
 - 대회 입상 이력(팀명: SuperAwesome, 팀장)
 
 |날짜|주최/주관/후원|대회명(과제명)|순위|입상여부|
