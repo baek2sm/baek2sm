@@ -52,7 +52,7 @@
 |13.06-|멘사코리아|https://www.mensakorea.org/|
 |16.04|헝그리앱TV 인디게임 개발자 인터뷰|https://tv.naver.com/v/838040|
 |17.02-18.02|(주)라인플러스 산학협력 전국 대학생 연합 게임 개발 동아리 회장|https://bridgegames.tistory.com/|
-|22.07|NAVER CLOVA AI RUSH 본선 진출/현대자동차 연구개발본부 AI대회 본선 진출|입사로 인한 중도 하차|
+|22.07|NAVER CLOVA AI RUSH 본선 진출/현대자동차 연구개발본부 AI대회 본선 진출|취업으로 인한 중도 하차|
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
 
