@@ -54,12 +54,6 @@
 |17.02-18.02|(주)라인플러스 산학협력 전국 대학생 연합 게임 개발 동아리 회장|https://bridgegames.tistory.com/|
 |22.07|NAVER CLOVA AI RUSH 본선 진출/현대자동차 연구개발본부 AI대회 본선 진출|입사로 인한 중도 하차|
 
-- 교육 이수/수료
-
-|기간|기관|과정|
-|-|-|-|
-|21.12-22.02|동국대학교, SKT|2021 겨울학기 동국대-SKT AI 커리큘럼(심화 과정)|
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
 
 
