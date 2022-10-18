@@ -12,19 +12,6 @@
 |공저자|Yu Hwan Kim, Se Hyun Nam, Seung Baek Hong, and Kang Ryoung Park, “GRA-GAN: Generative Adversarial Network for Image Style Transfer of Gender, Race, and Age,” Expert Systems With Applications, pp. 1-20, 15 July 2022.|
 |공저자|Se Hyun Nam, Yu Hwan Kim, Jiho Choi, Seung Baek Hong, Muhammad Owais, and Kang Ryoung Park, “LAE-GAN-based Face Image Restoration for Low-light Age Estimation,” Mathematics, 9(18), 2329, pp. 1-28, September 2021.|
 
-- 특허/저작권
-
-|종류|명칭|등록번호|등록일|
-|-|-|-|-|
-|소프트웨어 저작권|낙상 감지 프로그램|C-2021-035946|21.09.08|
-
-- 교육 활동
-
-|기간|내용|
-|-|-|
-|20.09-20.12|동국대학교 기계학습론 실습 강의|
-|21.10-21.11|한양대학교 ERICA 머신러닝&딥러닝 특강|
-
 - 대회 입상 이력(팀명: SuperAwesome, 팀장)
 
 |날짜|주최/주관/후원|대회명(과제명)|순위|입상여부|
@@ -41,6 +28,19 @@
 |21.12|과기부, NIA, 서울대학병원|Sleep AI Challenge 2021(적외선 동영상을 이용한 수면 단계 예측)|2|서울대학병원장상|
 |21.12|과기부, NIA, KAOMI|2021년 임플란트 영상 AI 해커톤 대회(임플란트 종류 분류)|3|장려상|
 |21.12|NIA, 데이터리|2021 민원데이터 활용 AI 해커톤|4|우수상|
+
+- 특허/저작권
+
+|종류|명칭|등록번호|등록일|
+|-|-|-|-|
+|소프트웨어 저작권|낙상 감지 프로그램|C-2021-035946|21.09.08|
+
+- 교육 활동
+
+|기간|내용|
+|-|-|
+|20.09-20.12|동국대학교 기계학습론 실습 강의|
+|21.10-21.11|한양대학교 ERICA 머신러닝&딥러닝 특강|
 
 - 대외 활동
 
