@@ -9,8 +9,6 @@
 |유형|내용|
 |--|-|
 |주저자|Seung Baek Hong, Yu Hwan Kim, Se Hyun Nam, and Kang Ryoung Park, “S3D: Squeeze and Excitation 3D Convolutional Neural Networks for a Fall Detection System,” Mathematics, Vol. 10(3), 328, pp. 1-24, February 2022.|
-|공저자|Yu Hwan Kim, Se Hyun Nam, Seung Baek Hong, and Kang Ryoung Park, “GRA-GAN: Generative Adversarial Network for Image Style Transfer of Gender, Race, and Age,” Expert Systems With Applications, pp. 1-20, 15 July 2022.|
-|공저자|Se Hyun Nam, Yu Hwan Kim, Jiho Choi, Seung Baek Hong, Muhammad Owais, and Kang Ryoung Park, “LAE-GAN-based Face Image Restoration for Low-light Age Estimation,” Mathematics, 9(18), 2329, pp. 1-28, September 2021.|
 
 - 대회 입상 이력(팀명: SuperAwesome, 팀장)
 
