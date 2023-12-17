@@ -4,12 +4,6 @@
 |-|-|-|
 |루비페이퍼|이토록 쉬운 머신러닝&딥러닝 입문 with 사이킷런 + 파이토치 (2022 세종도서 학술부문 선정)|2021년 8월|
 
-- 논문
-
-|유형|내용|
-|--|-|
-|주저자|Seung Baek Hong, Yu Hwan Kim, Se Hyun Nam, and Kang Ryoung Park, “S3D: Squeeze and Excitation 3D Convolutional Neural Networks for a Fall Detection System,” Mathematics, Vol. 10(3), 328, pp. 1-24, February 2022.|
-
 - 대회 입상 이력(팀명: SuperAwesome, 팀장)
 
 |날짜|주최/주관/후원|대회명(과제명)|순위|상장|
@@ -29,12 +23,6 @@
 |21.11|Alchera|눈바디 AI Challenge(Semantic segmentation)|6|입상|
 |21.12|데이터리, NIA|2021 민원데이터 활용 AI 해커톤(민원데이터 카테고리 분류)|4|우수상|
 
-- 특허/저작권
-
-|종류|명칭|등록번호|등록일|
-|-|-|-|-|
-|소프트웨어 저작권|낙상 감지 프로그램|C-2021-035946|21.09.08|
-
 - 강의/발표
 
 |기간|내용|
@@ -43,10 +31,21 @@
 |21.10-21.11|한양대학교 ERICA "머신러닝&딥러닝 입문" 특강|
 |20.09-20.12|동국대학교 "기계학습론" 머신러닝&딥러닝 실습 강의|
 
+- 논문
+
+|유형|내용|
+|--|-|
+|주저자|Seung Baek Hong, Yu Hwan Kim, Se Hyun Nam, and Kang Ryoung Park, “S3D: Squeeze and Excitation 3D Convolutional Neural Networks for a Fall Detection System,” Mathematics, Vol. 10(3), 328, pp. 1-24, February 2022.|
+
+- 특허/저작권
+
+|종류|명칭|등록번호|등록일|
+|-|-|-|-|
+|소프트웨어 저작권|낙상 감지 프로그램|C-2021-035946|21.09.08|
+
 - 대외 활동
 
 |기간|내용|비고|
 |-|-|-|
 |13.06-22.06|멘사코리아|https://www.mensakorea.org/|
-|16.04|헝그리앱TV 인디게임 개발자 인터뷰|https://tv.naver.com/v/838040|
 |17.02-18.02|(주)라인플러스 산학협력 대학생 연합 게임 개발 동아리 회장|https://bridgegames.tistory.com/|
